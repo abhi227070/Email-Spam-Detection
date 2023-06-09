@@ -1,3 +1,4 @@
 streamlit
 scikit-learn
 nltk
+pip install scipy==1.10.1
