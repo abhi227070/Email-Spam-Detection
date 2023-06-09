@@ -1,4 +1,4 @@
-
 streamlit
 scikit-learn
 nltk
+scipy~=1.10.1
