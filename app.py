@@ -6,6 +6,7 @@ from nltk.stem.porter import PorterStemmer
 import nltk
 
 nltk.download("punkt")
+nltk.download("stopwords")
 
 tfidf= pickle.load(open("tfidf.pkl","rb"))
 model= pickle.load(open("model.pkl","rb"))
